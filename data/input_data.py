@@ -1,6 +1,6 @@
 import pandas as pd
 
-df1 = pd.DataFrame({
+time_opticaldensity_ph_glucose_protein = pd.DataFrame({
     "Time": [0.0, 4.0, 8.0, 12.0, 16.0, 20.0, 24.0],
     "OpticalDensity": [0.088, 0.229, 0.6595, 0.949, 0.972, 1.0456, 1.023],
     "pH": [5.67, 5.41, 4.69, 4.23, 4.17, 4.01, 3.98],
