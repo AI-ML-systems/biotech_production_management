@@ -17,7 +17,7 @@ le_time_opticaldensity_ph_glucose_protein_37 = pd.DataFrame({
 })
 
 lb3_temperature = pd.DataFrame({
-    "t, °C": [35.0, 37.0, 40.0, 45.0],
+    "t, °C":          [35.0, 37.0, 40.0, 45.0],
     "OpticalDensity": [1.025, 1.075, 1.035, 0.875],
     "pH": [5.05, 4.645, 4.738, 4.953],
 })
